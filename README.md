@@ -1,11 +1,3 @@
-# Final Project Binaries
-
-To run the binaries, you need to be sure to point them to the
-correct data directories.
-
-If you've copied the data directories into your ```project``` folder,
-the commands below should work.
-
 ## Running QueryClient
 
 ```
